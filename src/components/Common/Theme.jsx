@@ -1,17 +1,19 @@
 export const theme = {
   colors: {
-    defaultText: '#000000',
+    defaultText: '#090909',
     mediumText: '#555555',
-    inverseText: '#ffffff',
-    secondBackground: '#f0f0f0',
-    pageBackground: '#ffffff',
+    inverseText: '#D9D9D9',
+    secondBackground: '#FFF9F9',
+    pageBackground: '#FFFFFF',
     buttonColor: 'rgb(180, 200, 255)',
   },
   fontSizes: {
+    xs: '8px',
     s: '12px',
     m: '16px',
     l: '24px',
     xl: '36px',
+    xxl: '48px',
   },
   fontWeights: {
     normal: 400,
