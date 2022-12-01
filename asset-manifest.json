@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weighings-VA-web/static/css/main.b5320759.css",
+    "main.js": "/weighings-VA-web/static/js/main.59d2df29.js",
+    "index.html": "/weighings-VA-web/index.html",
+    "main.b5320759.css.map": "/weighings-VA-web/static/css/main.b5320759.css.map",
+    "main.59d2df29.js.map": "/weighings-VA-web/static/js/main.59d2df29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.59d2df29.js"
+  ]
+}
